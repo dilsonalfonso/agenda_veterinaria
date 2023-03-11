@@ -1,5 +1,3 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-
 
 ## Agenda Veterinaria
 
@@ -20,7 +18,7 @@ Este proyecto de agenda veterinaria se desarrolló para demostrar la forma de da
 
 ## Pasos para Instalación en Ambiente local
 
-- Descarga el archivo .zip(https://laravel.com/docs/contributions).
+- Descarga el archivo .zip (https://drive.google.com/file/d/1799w0nXoaQus2Ka59BZhxX6Oqes_9d1M/view?usp=share_link).
 - Descomprimelo en la carpeta C:\xampp\htdocs\Veterinaria (Para el ambiente xampp)
 - Crear una base de datos nueva (veterinaria).
 - Configurar el nombre de base de Datos, usuario y contraseña en los archivos:
