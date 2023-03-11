@@ -14,7 +14,7 @@
 <body>
 <div class="todo">
     <figure id="home">
-        <img src="{{asset('img/fondo.jpg')}}" alt="">
+        <img src="{{asset('img/fondo.jpg')}}" alt="" >
     </figure>
     <nav class="nav-top">
         <div class="nav-icon">
