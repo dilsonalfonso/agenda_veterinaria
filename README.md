@@ -25,7 +25,7 @@ Este proyecto de agenda veterinaria se desarrolló para demostrar la forma de da
     --C:\xampp\htdocs\Veterinaria\.env
     --C:\xampp\htdocs\Veterinaria\config\database.php
 - Desde la terminal (cmd de Windows) ubicada en el directorio (C:\xampp\htdocs\Veterinaria) ejecuta el Comando "php artisan migrate" para crear las tablas.
-- Accede midiante 127.0.0.1/Veterinaria
+- Accede mediante 127.0.0.1/Veterinaria
 
 
 ## URL
